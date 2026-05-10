@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Eu+sou+David+Lucas+Reche+Garcia+Bento;Eu+sou+um+desenvolvedor+Fullstack&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="apresentation aboute me, I'am david lucas reche garcia bento, I'am a fullstack developer">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Eu+me+chamo+David+Lucas+Reche+Garcia+Bento;Eu+sou+um+desenvolvedor+Fullstack&font=Fira%20Code&center=true&width=520&height=50&duration=4000&pause=1000" alt="apresentation aboute me, I'am david lucas reche garcia bento, I'am a fullstack developer">
 </p>
 
 
