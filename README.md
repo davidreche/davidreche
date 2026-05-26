@@ -2,14 +2,16 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Eu+me+chamo+David+Lucas+Reche+Garcia+Bento;Eu+sou+um+desenvolvedor+Fullstack&font=Fira%20Code&center=true&width=520&height=50&duration=4000&pause=1000" alt="apresentation aboute me, I'am david lucas reche garcia bento, I'am a fullstack developer">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Eu+me+chamo+David+Lucas+Reche+Garcia+Bento;Eu+sou+um+desenvolvedor+Fullstack&font=Fira%20Code&left=true&width=520&height=50&duration=4000&pause=1000" alt="apresentation aboute me, I'am david lucas reche garcia bento, I'am a fullstack developer">
 </p>
 
 
 Eu sou um desenvolvedor Fullstack com foco em backend.
 
-🔭 Ybyra tech, este é um projeto com o intuito de tirar o tempo gasto dos trabalhadores manuas de empresas de 
+<h1>sobre mim:</h1>
+<p>Eu sou um desenvolvedor que adora aprender linguagens e ferramentas novas para aumentar o meu conhecimento, sou facinado por desenvolvimento backend, principalmente desenvolvimento mobile, porém aprendo, atuo e estou sempre disposto a aprender sobre novas áreas.</p>
 
+<h1>Frase motivacional aleátoria</h1>
 💬 A vida é muito importante para ser levada a sério - Oscar Wilde.
 
 ## 🚀 MY Skills
