@@ -9,7 +9,7 @@
 Eu sou um desenvolvedor Fullstack com foco em backend.
 
 <h1>sobre mim:</h1>
-<p>Eu sou um desenvolvedor que adora aprender linguagens e ferramentas novas para aumentar o meu conhecimento, sou facinado por desenvolvimento backend, principalmente desenvolvimento mobile, porém aprendo, atuo e estou sempre disposto a aprender sobre novas áreas.</p>
+<p>Eu sou um desenvolvedor que adora aprender linguagens e ferramentas novas para aumentar o meu conhecimento, sou facinado por desenvolvimento backend, principalmente desenvolvimento mobile. Sempre disposto a aprender sobre novas áreas.</p>
 
 <h1>Frase motivacional aleátoria</h1>
 💬 A vida é muito importante para ser levada a sério - Oscar Wilde.
